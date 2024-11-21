@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sena Gökhan</h1>
-<h3 align="center">Ambitious Backend Developer </h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senagokhan&label=Profile%20views&color=0e75b6&style=flat" alt="senagokhan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🌱 I’m currently learning **Laravel and working on a Laravel project.**
+
+- 👯 I’m looking to collaborate on **backend development projects, especially in Java, Golang, or Laravel.**
+
+- 💻 Previously, **I have contributed to several Java projects.**
+
+- 🚀 Alongside, **I have been learning Golang and building REST APIs.**
+
+- 📚 Passionate about **clean code, scalable architectures, and learning new technologies.**
 
 - 📫 How to reach me **gokhansena7@gmail.com**
 
