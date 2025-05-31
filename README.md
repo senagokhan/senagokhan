@@ -11,8 +11,6 @@
 
 - 💻 Previously, **I have contributed to several Java projects.**
 
-- 🚀 Alongside, **I have been learning Golang and building REST APIs.**
-
 - 📚 Passionate about **clean code, scalable architectures, and learning new technologies.**
 
 - 📫 How to reach me **gokhansena7@gmail.com**
