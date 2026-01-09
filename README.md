@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sena Gökhan</h1>
 <h3 align="center">Computer Engineering Student | Passionate About Backend Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=senagokhan&label=Profile%20views&color=0e75b6&style=flat" alt="senagokhan" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 💻 I have learned **Java Spring Boot** and contributed to several Spring Boot projects.
 
 - 🚀 I’m currently learning **Microservices architecture** and exploring how to build distributed backend systems.
